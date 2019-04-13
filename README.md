@@ -1,2 +1,2 @@
 # Erklib
-(here)[./erklib.js].
+[here](./erklib.js).
