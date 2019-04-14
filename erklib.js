@@ -323,6 +323,8 @@
         _evt('unfocus');
         _evt('mouseenter', 'mouseover');
         _evt('mouseleave', 'mouseout');
+        _evt('keydown');
+        _evt('keyup');
 
 
         function strHasChar(str, char) {
