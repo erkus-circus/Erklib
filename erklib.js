@@ -325,6 +325,8 @@
         _evt('mouseleave', 'mouseout');
         _evt('keydown');
         _evt('keyup');
+        _evt('keypress');
+        
 
 
         function strHasChar(str, char) {
